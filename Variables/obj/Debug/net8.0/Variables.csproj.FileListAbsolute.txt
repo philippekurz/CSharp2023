@@ -1,0 +1,15 @@
+D:\Formation\IFC Avignon\CSharp2023\Variables\bin\Debug\net8.0\Variables.exe
+D:\Formation\IFC Avignon\CSharp2023\Variables\bin\Debug\net8.0\Variables.deps.json
+D:\Formation\IFC Avignon\CSharp2023\Variables\bin\Debug\net8.0\Variables.runtimeconfig.json
+D:\Formation\IFC Avignon\CSharp2023\Variables\bin\Debug\net8.0\Variables.dll
+D:\Formation\IFC Avignon\CSharp2023\Variables\bin\Debug\net8.0\Variables.pdb
+D:\Formation\IFC Avignon\CSharp2023\Variables\obj\Debug\net8.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Formation\IFC Avignon\CSharp2023\Variables\obj\Debug\net8.0\Variables.AssemblyInfoInputs.cache
+D:\Formation\IFC Avignon\CSharp2023\Variables\obj\Debug\net8.0\Variables.AssemblyInfo.cs
+D:\Formation\IFC Avignon\CSharp2023\Variables\obj\Debug\net8.0\Variables.csproj.CoreCompileInputs.cache
+D:\Formation\IFC Avignon\CSharp2023\Variables\obj\Debug\net8.0\Variables.sourcelink.json
+D:\Formation\IFC Avignon\CSharp2023\Variables\obj\Debug\net8.0\Variables.dll
+D:\Formation\IFC Avignon\CSharp2023\Variables\obj\Debug\net8.0\refint\Variables.dll
+D:\Formation\IFC Avignon\CSharp2023\Variables\obj\Debug\net8.0\Variables.pdb
+D:\Formation\IFC Avignon\CSharp2023\Variables\obj\Debug\net8.0\Variables.genruntimeconfig.cache
+D:\Formation\IFC Avignon\CSharp2023\Variables\obj\Debug\net8.0\ref\Variables.dll
